@@ -1,0 +1,2 @@
+oc expose deploy <deployname>
+oc expose svc <svcname>
